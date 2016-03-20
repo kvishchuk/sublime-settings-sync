@@ -1,0 +1,25 @@
+{
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.svn",
+		"*.git",
+		"*.hg",
+		"CVS",
+		"*tmp/cache",
+		"*._*",
+		"*.DS_Store",
+		".gitattributes"
+	],
+	"folder_exclude_patterns":
+	[
+		".sass-cache",
+		".svn",
+		".git"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
