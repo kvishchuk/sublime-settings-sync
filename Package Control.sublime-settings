@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
+		"HTML5",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"Solarized Color Scheme"
+	]
+}
