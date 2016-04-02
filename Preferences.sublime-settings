@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.svn",

@@ -5,3 +5,5 @@
 !.gitignore
 !Preferences.sublime-settings
 !Package Control.sublime-settings
+!LICENSE
+!README.md
