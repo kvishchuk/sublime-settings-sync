@@ -1,4 +1,4 @@
-# Sublime Text setting [sync]
+# Sublime Text setting sync
 
 by [Andreas Müller](https://medium.com/@devmount/using-git-to-sync-sublime-text-settings-f70b8dc7a40d#.yvv8bpola)
 
