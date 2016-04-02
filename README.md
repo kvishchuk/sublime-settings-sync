@@ -6,8 +6,10 @@ by [Andreas Müller](https://medium.com/@devmount/using-git-to-sync-sublime-text
 
 1. Create GitHub repo
 2. Go to:
+
 - For Windows: ~\AppData\Roaming\Sublime Text 3\Packages\User
 - For Linux:   ~/.config/sublime-text-3/Packages/User
+
 3. Create .gitignore file:
 ```
 # Ignore everything...
